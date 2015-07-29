@@ -1,8 +1,4 @@
----
-tags: rails, full application, API, controllers, json, respond_to, jbuilder
-language: ruby
-resources: 1
----
+
 
 # Flatiron-bnb: Building an API
 

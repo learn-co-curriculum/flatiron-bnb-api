@@ -68,7 +68,7 @@ RSpec.describe ReservationsController, :type => :controller do
   describe 'PATCH /reservations/:id.json' do 
     it 'updates an existing reservation' do 
       patch :update, format: :json, id: 1, :reservation => {checkin: '2014-09-05', checkout: '2014-10-01', guest_id: 5, listing_id: 2}
-      expect(response.status).to eq 200
+      expect(response).to be_ok
       expect(Reservation.first.checkin).to eq(Date.parse('2014-09-05'))
     end
 

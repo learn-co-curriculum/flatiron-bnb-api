@@ -98,4 +98,4 @@ end
 ## Resources
 * [Rendering JSON responses using Jbuilder](http://www.multunus.com/blog/2014/03/using-jbuilder-instead-erb-rendering-json-response/)
 
-<a href='https://learn.co/lessons/flatiron-bnb-api' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/flatiron-bnb-api' title='Flatiron-bnb: Building an API'>Flatiron-bnb: Building an API</a> on Learn.co and start learning to code for free.</p>
